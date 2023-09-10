@@ -1,4 +1,3 @@
-[![GitHub Repo stars](https://img.shields.io/github/stars/mshuber1981/github-react-portfolio-template?color=%2361dbfb&style=for-the-badge&logo=github)](https://github.com/mshuber1981/github-react-portfolio-template/stargazers/) [![GitHub Repo Forks](https://img.shields.io/github/forks/mshuber1981/github-react-portfolio-template?color=%2361dbfb&style=for-the-badge&logo=github&label=Forks)](https://github.com/mshuber1981/github-react-portfolio-template/network/members)
 
 # A React Portfolio Template for GitHub
 
@@ -10,7 +9,7 @@ Add your GitHub username once and all of your info will automatically be updated
 
 ![Page Speed](/README_images/speed.png)
 
-### <a href="https://mshuber1981.github.io/github-react-portfolio-template/#/">LIVE DEMO</a>
+### <a href="https://basheer-babu.github.io/">LIVE DEMO</a>
 
 ![Project Preview](/README_images/preview.png)
 
